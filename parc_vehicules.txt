@@ -1,0 +1,3 @@
+ID: 1, Nom: Car1, Marque: Toyota, Année: 2020, Nombre de portes: 4
+ID: 2, Nom: Truck1, Marque: Ford, Année: 2019, Capacité de charge: 5000kg
+ID: 3, Nom: Bike1, Marque: Honda, Année: 2021, Cylindrée: 650cc
